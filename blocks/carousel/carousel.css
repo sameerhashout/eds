@@ -34,7 +34,7 @@ div.slide-text {
   position: absolute;
   width: 100%;
   top: 60%;
-  color: #fff;
+  color: rgb(255, 255, 255);
   text-align: center;
 }
 
@@ -48,7 +48,7 @@ div.slide-text {
   border-radius: 50%;
   z-index: 10;
   cursor: pointer;
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
   font-size: 18px;
   color: black;
 }
